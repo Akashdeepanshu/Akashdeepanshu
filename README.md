@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm a passionate developer focused on building mobile and web applications. Worked on projects using Flutter, Kotlin, and Django/Flask/Gin for both frontend and backend development. I enjoy creating seamless user experiences and scalable backend systems.<br><br>🔧 Tech Stack:<br><br>Mobile: Flutter, Kotlin<br><br>Backend: Django, Flask, Gin<br><br>Database: PostgreSQL, MongoDB, Firebase, ElephantSQL<br><br>Other Tools: Firebase Auth, Razor pay Integration, Raspberry Pi<br><br>🎯 What I'm Working On:<br><br>A TO-DO list app with Kotlin frontend, Flask backend, PostgreSQL DB & Firebase Auth<br><br>A car rental platform using Kotlin and Django<br><br><br>🌱 Always learning and experimenting with new technologies<br>📫 Let’s connect and build something cool together!<br><br>
+# 👨‍💻 About Me:
+<br>🚀 I’m a passionate Android Developer exploring full-stack development<br>💻 Currently working on an Expense Tracker app, Car Rental app, and more<br>🌱 Learning Flask, Django, Gin & improving backend skills with Python & Go<br>🛠️ Tech I use: Kotlin, Flutter, Python, Firebase, PostgreSQL, MongoDB<br>💡 I love building smooth UI and efficient backend systems<br>📬 Reach me at: akashmuchhal2004@gmail.com<br>🎮 Fun fact: I take coding breaks with gaming sessions to recharge!
 
 
 ## 🌐 Socials:
