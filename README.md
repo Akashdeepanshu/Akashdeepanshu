@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-<br>🚀 I’m a passionate Android Developer exploring full-stack development<br>💻 Currently working on an Expense Tracker app, Car Rental app, and more<br>🌱 Learning Flask, Django, Gin & improving backend skills with Python & Go<br>🛠️ Tech I use: Kotlin, Flutter, Python, Firebase, PostgreSQL, MongoDB<br>💡 I love building smooth UI and efficient backend systems<br>📬 Reach me at: akashmuchhal2004@gmail.com<br>🎮 Fun fact: I take coding breaks with gaming sessions to recharge!
+<br>🚀 I’m a passionate Android Developer exploring full-stack development<br>💻 Currently working on an Assign To-Do app, Car Rental app, and more<br>🌱 Learning Flask, Django, Gin & improving backend skills with Python & Go<br>🛠️ Tech I use: Kotlin, Flutter, Python, Firebase, PostgreSQL, MongoDB<br>💡 I love building smooth UI and efficient backend systems<br>📬 Reach me at: akashmuchhal2004@gmail.com<br>🎮 Fun fact: I take coding breaks with gaming sessions to recharge!
 
 
 ## 🌐 Socials:
